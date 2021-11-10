@@ -37,8 +37,12 @@ install xgboost by using `pip install xgb` in command line prompt/ anconda  i've
 
            0       0.92      0.72      0.81      1294
            1       0.52      0.82      0.64       467
+
+## Model summary
 - 77% AUC indicates model is correct on nearly 4 out of 5 customers cases
 - 83% Recall means model predicts 83% of customer churn cases correctly
 - 52% Precision means model predicts nearly 1 in 2 false positives 
+
 ## Dataset:
 https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+
