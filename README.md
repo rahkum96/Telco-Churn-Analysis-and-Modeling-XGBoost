@@ -31,7 +31,12 @@ Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i'v
 install xgboost by using `pip install xgb` in command line prompt/ anconda  i've you haven't.
 
 ## Model performance
-- I have acheived model accuracy 78%, but the gaol is predict the correctly classified who, left the comapany, means we have more focused on recall, (82%)
+- I have acheived model accuracy 78%, but the goal is predict the correctly classified who, left the comapany, means we have more focused on recall, (82%)
+
+               precision    recall  f1-score   support
+
+           0       0.92      0.72      0.81      1294
+           1       0.52      0.82      0.64       467
 
 ## Dataset:
 https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
