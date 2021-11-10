@@ -1,4 +1,5 @@
 # Telco-Churn-Analysis-and-Modeling-XGBoost
+![image](https://user-images.githubusercontent.com/86415241/141137806-2d182c32-4848-4465-b8a8-0206c79957ce.png)
 
 ## Problem statement
 - There are promotional charges called as Acquisition Cost and Retention Cost in a telco company. The cost of acquiring new consumers is referred to as acquisition cost. Meanwhile, the expense of retaining existing clients is known as Retention Cost.
