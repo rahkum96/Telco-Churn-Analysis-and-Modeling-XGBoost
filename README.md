@@ -16,6 +16,11 @@ Machine Learning has a goal so that cost allocation can be done as precisely as 
 There is no wasted cost allocation.
 
 ## Modules needed:
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 - xgboost
 - Pandas
 - Scikit-Learn &
