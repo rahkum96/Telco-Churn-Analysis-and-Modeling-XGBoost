@@ -25,11 +25,11 @@ There is no wasted cost allocation.
 
 ## Usage
 
-Just run `jupyter notebook` in terminal and it will run in your browser.
+- Just run `jupyter notebook` in terminal and it will run in your browser.
 
-Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+  Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
-install xgboost by using `pip install xgb` in command line prompt/ anconda  i've you haven't.
+- install xgboost by using `pip install xgb` in command line prompt/ anconda  i've you haven't.
 
 ## Model performance
 - I have acheived model accuracy 78%, but the goal is predict the correctly classified who, left the comapany, means we have more focused on recall, (82%)
