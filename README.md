@@ -21,7 +21,7 @@ There is no wasted cost allocation.
 - Scikit-Learn &
 - Numpy
 - seaborn
--GridsearchCv
+- GridsearchCv
 
 ## Usage
 
