@@ -17,16 +17,14 @@ There is no wasted cost allocation.
 
 ## Modules needed:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 - xgboost
 - Pandas
 - Scikit-Learn &
 - Numpy
 - seaborn
 - GridsearchCv
+```
+
 
 ## Usage
 
