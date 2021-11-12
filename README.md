@@ -48,5 +48,6 @@ There is no wasted cost allocation.
 - 52% Precision means model predicts nearly 1 in 2 false positives 
 
 ## Dataset:
-https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113 
+https://github.com/rahkum96/Telco-Churn-Analysis-and-Modeling-XGBoost/blob/main/Telco_customer_churn.xlsx
 
