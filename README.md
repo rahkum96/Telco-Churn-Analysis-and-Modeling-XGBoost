@@ -13,7 +13,7 @@ I will try to create a Machine Learning model to predict customer churn and reta
 Machine Learning has a goal so that cost allocation can be done as precisely as possible.
 
 ## Value
-There is no wasted cost allocation.
+There is no wasted cost allocation. 
 
 ## Modules needed:
 ```
